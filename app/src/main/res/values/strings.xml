@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIControlExample</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="enter_contact_name">Enter Contact Name</string>
+    <string-array name="spinner_data">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Fax</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
